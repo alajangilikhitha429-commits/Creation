@@ -1,0 +1,6 @@
+{
+  "name": "DevStack BTech - Web & App Platform Directory",
+  "description": "A curated directory of top website builders, no-code tools, AI platforms, and app frameworks tailored for BTech student projects and hackathons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
